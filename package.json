@@ -2,7 +2,6 @@
   "name": "ember-async-shim",
   "version": "0.0.0",
   "description": "The default blueprint for ember-cli addons.",
-  "ember-async-shim": "0.0.1",
   "keywords": [
     "ember-addon",
     "async",
