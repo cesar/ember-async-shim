@@ -1,5 +1,7 @@
 # ember-async-shim
 
+[![Ember Observer Score](https://emberobserver.com/badges/ember-async-shim.svg)](https://emberobserver.com/addons/ember-async-shim)
+
 Import [Async](http://caolan.github.io/async/index.html) helper functions using ES6 syntax.
 
 ## Installation
