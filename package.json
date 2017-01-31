@@ -8,12 +8,19 @@
     "shim"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Cesar Cruz",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cesar/ember-async-shim.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cesar/ember-async-shim/issues"
+  },
+  "homepage": "https://github.com/cesar/ember-async-shim",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
